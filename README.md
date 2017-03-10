@@ -1,5 +1,6 @@
 # Kattis-submits
-## Genetic search
-## Tomography
+ Genetic search/ javascript
+ Tomography /javascript and python3
+ Demografi/ java 
 
 
