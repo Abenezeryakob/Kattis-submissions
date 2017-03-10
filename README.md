@@ -1,5 +1,5 @@
 # Kattis-submits
-# Genetic search
-# Tomography
+## Genetic search
+## Tomography
 
 
