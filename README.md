@@ -1,5 +1,5 @@
 # Kattis-submits
-### 1. [Genetic search](https://kth.kattis.com/problems/geneticsearch)/ javascript
+### 1. [Genetic search](https://kth.kattis.com/problems/geneticsearch)/ javascript 1
 ### 2. [Tomography](https://kth.kattis.com/problems/tomography) /javascript and python3
 ### 3. [Demografi](https://kth.kattis.com/problems/kth.javap.demografi)/ java 
 ### 4. [Formelkoll](https://kth.kattis.com/problems/kth.tilda.formelkoll2) / python3
