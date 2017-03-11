@@ -6,4 +6,5 @@
 ### [Phonelist](https://kth.kattis.com/problems/phonelist) / PHP
 ### [Reversed Binary Numbers](https://kth.kattis.com/problems/reversebinary) / PHP and python3
 ### [Summera Tal](https://kth.kattis.com/problems/kth.javap.sumsort) / java
+### [Avstånd från kanten](https://kth.kattis.com/problems/kth.javap.kant) / java
 
